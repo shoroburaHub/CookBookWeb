@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+#main{
+	width: 1000px;
+	height: 100%;
+}
+#innerone{
+	width: 33%;
+	float: left;
+	height: 500px;
+	
+}
+#innertwo{
+	width: 67%;
+	height: 500px;
+}
+.bg{
+	background-color: #5bc889;
+}
